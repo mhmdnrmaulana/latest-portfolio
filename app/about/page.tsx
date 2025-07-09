@@ -1,10 +1,10 @@
 import LayoutNavbar from "@/components/layouts/elements/layout-navbar";
-import Home from "@/module/home/home";
+import About from "@/module/about/about";
 
-export default function HomePage() {
+export default function AboutPage() {
   return (
     <LayoutNavbar>
-      <Home />
+      <About />
     </LayoutNavbar>
   );
 }
