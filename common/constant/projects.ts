@@ -8,8 +8,8 @@ export const projects = [
     summary:
       "A personal portfolio website built with Next.js and Tailwind CSS. It features a responsive layout, dynamic content, and a contact form for easy communication with the developer.",
     link: {
-      srccode: "https://github.com/maulana-portfolio",
-      website: "https://maulana.vercel.app/",
+      srccode: "https://github.com/mhmdnrmaulana/latest-portfolio",
+      website: "https://maulana-v1.vercel.app/",
     },
     image: "/images/projects/project1.png",
     content: [
@@ -58,7 +58,7 @@ export const projects = [
         type: "markdown",
         data: [
           {
-            text: "git clone https://github.com/",
+            text: "git clone https://github.com/mhmdnrmaulana/latest-portfolio",
           },
         ],
       },
